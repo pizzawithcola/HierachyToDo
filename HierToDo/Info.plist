@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Need permission to access all calenders</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+	<string>Need permission to access calender</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Need permission to access reminders</string>
+	<key>NSUbiquitousContainers</key>
+	<dict>
+		<key>iCloud.edu.duke.ece564.sp24.HierToDo</key>
+		<dict>
+			<key>NSUbiquitousContainerIsDocumentScopePublic</key>
+			<true/>
+			<key>NSUbiquitousContainerName</key>
+			<string>HierToDoDocument</string>
+			<key>NSUbiquitousContainerSupportedFolderLevels</key>
+			<string>ANY</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
